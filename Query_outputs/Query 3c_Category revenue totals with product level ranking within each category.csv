@@ -1,0 +1,78 @@
+"category_id","category_name","product_name","total_quantity_ordered","total_revenue","rank"
+1,"Beverages","Côte de Blaye",623,141397,1
+1,"Beverages","Ipoh Coffee",580,23527,2
+1,"Beverages","Chang",1057,16356,3
+1,"Beverages","Lakkalikööri",981,15760,4
+1,"Beverages","Steeleye Stout",883,13644,5
+1,"Beverages","Chai",828,12788,6
+1,"Beverages","Chartreuse verte",793,12295,7
+1,"Beverages","Outback Lager",817,10673,8
+1,"Beverages","Rhönbräu Klosterbier",1155,8177,9
+1,"Beverages","Sasquatch Ale",506,6350,10
+1,"Beverages","Guaraná Fantástica",1125,4504,11
+1,"Beverages","Laughing Lumberjack Lager",184,2397,12
+2,"Condiments","Vegie-spread",445,16701,1
+2,"Condiments","Sirop d'érable",603,14353,2
+2,"Condiments","Louisiana Fiery Hot Pepper Sauce",745,13870,3
+2,"Condiments","Northwoods Cranberry Sauce",372,12772,4
+2,"Condiments","Gula Malacca",601,9916,5
+2,"Condiments","Original Frankfurter grüne Soße",791,9172,6
+2,"Condiments","Chef Anton's Cajun Seasoning",453,8568,7
+2,"Condiments","Grandma's Boysenberry Spread",301,7137,8
+2,"Condiments","Chef Anton's Gumbo Mix",298,5347,9
+2,"Condiments","Louisiana Hot Spiced Okra",239,3383,10
+2,"Condiments","Aniseed Syrup",328,3044,11
+2,"Condiments","Genen Shouyu",122,1785,12
+3,"Confections","Tarte au sucre",1083,47235,1
+3,"Confections","Sir Rodney's Marmalade",313,22563,2
+3,"Confections","Gumbär Gummibärchen",753,19849,3
+3,"Confections","Pavlova",1158,17216,4
+3,"Confections","Schoggi Schokolade",365,15100,5
+3,"Confections","Maxilaku",520,9245,6
+3,"Confections","Sir Rodney's Scones",1016,9104,7
+3,"Confections","Scottish Longbreads",799,8714,8
+3,"Confections","Teatime Chocolate Biscuits",723,5863,9
+3,"Confections","Zaanse koeken",485,3958,10
+3,"Confections","NuNuCa Nuß-Nougat-Creme",318,3704,11
+3,"Confections","Valkoinen suklaa",235,3438,12
+3,"Confections","Chocolade",138,1369,13
+4,"Dairy Products","Raclette Courdavault",1496,71156,1
+4,"Dairy Products","Camembert Pierrot",1577,46825,2
+4,"Dairy Products","Mozzarella di Giovanni",806,24900,3
+4,"Dairy Products","Gudbrandsdalsost",714,21942,4
+4,"Dairy Products","Flotemysost",1057,19551,5
+4,"Dairy Products","Gorgonzola Telino",1397,14921,6
+4,"Dairy Products","Queso Cabrales",706,12902,7
+4,"Dairy Products","Queso Manchego La Pastora",344,12258,8
+4,"Dairy Products","Mascarpone Fabioli",297,8404,9
+4,"Dairy Products","Geitost",755,1648,10
+5,"Grains/Cereals","Gnocchi di nonna Alice",1263,42593,1
+5,"Grains/Cereals","Wimmers gute Semmelknödel",740,21958,2
+5,"Grains/Cereals","Singaporean Hokkien Fried Mee",697,8575,3
+5,"Grains/Cereals","Ravioli Angelo",434,7662,4
+5,"Grains/Cereals","Gustaf's Knäckebröd",348,7122,5
+5,"Grains/Cereals","Tunnbröd",580,4602,6
+5,"Grains/Cereals","Filo Mix",500,3233,7
+6,"Meat/Poultry","Thüringer Rostbratwurst",746,80369,1
+6,"Meat/Poultry","Alice Mutton",978,32698,2
+6,"Meat/Poultry","Perth Pasties",722,20574,3
+6,"Meat/Poultry","Pâté chinois",903,17426,4
+6,"Meat/Poultry","Mishi Kobe Niku",95,7226,5
+6,"Meat/Poultry","Tourtière",755,4728,6
+7,"Produce","Manjimup Dried Apples",886,41820,1
+7,"Produce","Rössle Sauerkraut",640,25697,2
+7,"Produce","Uncle Bob's Organic Dried Pears",763,22044,3
+7,"Produce","Tofu",404,7991,4
+7,"Produce","Longlife Tofu",297,2432,5
+8,"Seafood","Carnarvon Tigers",539,29172,1
+8,"Seafood","Ikura",742,20867,2
+8,"Seafood","Boston Crab Meat",1103,17911,3
+8,"Seafood","Inlagd Sill",805,13458,4
+8,"Seafood","Nord-Ost Matjeshering",612,13424,5
+8,"Seafood","Jack's New England Clam Chowder",981,8680,6
+8,"Seafood","Spegesild",548,5883,7
+8,"Seafood","Escargots de Bourgogne",534,5882,8
+8,"Seafood","Konbu",891,4960,9
+8,"Seafood","Rogede sild",508,4338,10
+8,"Seafood","Röd Kaviar",293,3997,11
+8,"Seafood","Gravad lax",125,2688,12
