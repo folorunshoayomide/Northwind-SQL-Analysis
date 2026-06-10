@@ -102,6 +102,10 @@ The Northwind database contains 14 tables. The key tables used in this analysis 
 - `orders` → `employees` (who handled the order)
 - `orders` → `shippers` (via `ship_via` foreign key)
 
+![Database Schema](images/Database Schema 1.png)
+
+![Database Schema](images/Database Schema 2.png)
+
 ## ⚙️ Database Setup
 
 1. Downloaded the Northwind dataset from Kaggle
@@ -198,6 +202,17 @@ ORDER BY total_revenue DESC NULLS LAST;
 ```
 
 ---
+
+---📸 Sample Outputs
+
+![Sample Outputs](images/Annotation 2026-06-08 123056.png)
+
+![Sample Outputs](images/Annotation 2026-06-08 123151.png)
+
+![Sample Outputs](images/Annotation 2026-06-08 123553.png)
+
+
+
 
 ## Section Breakdown
 
