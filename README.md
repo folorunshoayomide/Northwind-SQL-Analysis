@@ -1,7 +1,7 @@
-# Northwind-SQL-Analysis
+# 🏪 Northwind-SQL-Analysis
 End - to - end SQL business analysis of the Northwind database using PostgreSQL
 
-# 🏪 Northwind Business Intelligence Analysis — SQL Project
+---
 
 Author: Ayomide Folorunsho
 Database: PostgreSQL
@@ -101,9 +101,9 @@ The Northwind database contains 14 tables. The key tables used in this analysis 
 - `orders` → `employees` (who handled the order)
 - `orders` → `shippers` (via `ship_via` foreign key)
 
-![Database Schema](images/Database Schema 1.png)
+![Database Schema](images/database-schema-1.png)
 
-![Database Schema](images/Database Schema 2.png)
+![Database Schema](images/database-schema-2.png)
 
 ## ⚙️ Database Setup
 
@@ -204,16 +204,16 @@ ORDER BY total_revenue DESC NULLS LAST;
 
 ---📸 Sample Outputs
 
-![Sample Outputs](images/Annotation 2026-06-08 123056.png)
+![Sample Outputs](images/annotation 2026-06-08 123056.png)
 
-![Sample Outputs](images/Annotation 2026-06-08 123151.png)
+![Sample Outputs](images/annotation 2026-06-08 123151.png)
 
-![Sample Outputs](images/Annotation 2026-06-08 123553.png)
-
-
+![Sample Outputs](images/annotation 2026-06-08 123553.png)
 
 
-## Section Breakdown
+
+
+## Section Breakdow
 
 ### Section 1 — Customer Analysis
 **Business Question:** Who are our most valuable customers and where do they come from?
