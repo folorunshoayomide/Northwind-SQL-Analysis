@@ -1,7 +1,6 @@
 # Northwind-SQL-Analysis
 End - to - end SQL business analysis of the Northwind database using PostgreSQL
 
-```markdown
 # 🏪 Northwind Business Intelligence Analysis — SQL Project
 
 Author: Ayomide Folorunsho
@@ -301,21 +300,19 @@ ORDER BY total_revenue DESC NULLS LAST;
 
 ## Key Findings
 
-> After running the queries, replace the placeholders below with your actual results.
-
-- **Top Customer:** [Insert company name] generated the highest revenue of [insert amount]
-- **Top Country:** [Insert country] leads in total revenue with [insert amount]
-  across [insert number] orders
-- **Top Employee:** [Insert name] handled the most revenue at [insert amount]
-  across [insert number] orders
-- **Best Selling Product:** [Insert product name] ranked first by both
-  quantity and revenue
-- **Top Category:** [Insert category name] generated the most revenue
+- **Top Customer:** Horst Kloss generated the highest revenue of $110,277.00
+- **Top Country:** USA leads in total revenue with $245,585.00
+  across 122 orders
+- **Top Employee:** Margaret Peacock handled the most revenue at $232,891.00
+  across 420 orders
+- **Best Selling Product:** CÃ´te de Blaye ranked first by revenue with $141,397.00
+ while Camembert Pierrot ranked first by total orders with 1577
+- **Top Category:** Beverages generated the most revenue
   across all product categories
-- **Top Supplier:** [Insert supplier name] contributed the most revenue
+- **Top Supplier:** Aux joyeux ecclÃ©siastiques contributed the most revenue
   through their product catalogue
-- **Fastest Shipper:** [Insert company name] averaged the fewest delivery days
-- **Peak Revenue Month:** [Insert month] consistently generates the highest
+- **Fastest Shipper:** United Package averaged the fewest delivery days
+- **Peak Revenue Month:** January consistently generates the highest
   average revenue across all years
 
 ---
@@ -347,11 +344,6 @@ Data Analyst | PostgreSQL | Power BI | Excel
 ---
 
 *This project is part of an ongoing data analytics portfolio documenting
-my learning journey from physiotherapy into data analytics.*
+my learning journey into data analytics.*
 ```
 
----
-
-
-
-Everything else is ready to paste directly into your README.md file.
