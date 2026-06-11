@@ -3,10 +3,10 @@ End - to - end SQL business analysis of the Northwind database using PostgreSQL
 
 ---
 
-Author: Ayomide Folorunsho
-Database: PostgreSQL
-Tools: PostgreSQL · pgAdmin 4 · GitHub
-Dataset: Northwind Trading Company (Downloaded from Kaggle) 
+- Author: Ayomide Folorunsho
+- Database: PostgreSQL
+- Tools: PostgreSQL · pgAdmin 4 · GitHub
+- Dataset: Northwind Trading Company  
 
 ---
 
@@ -31,7 +31,7 @@ project where I designed a logistics relational database from scratch. In this
 project, I worked with the **Northwind database** — a well-known sample dataset 
 representing a trading company that buys and sells specialty food products globally.
 
-The Northwind database was downloaded from **Kaggle** and installed locally using
+The Northwind database was downloaded and installed locally using
 **PostgreSQL** and **pgAdmin 4**. The database was restored into a new PostgreSQL
 instance, making all 14 tables immediately available for analysis without any
 manual schema building or data entry. 
@@ -50,9 +50,9 @@ advanced window functions and multi-CTE queries in the final section.
 - 6 business analysis sections
 - 19 SQL queries
 - Customer, employee, product, supplier and shipping analysis
-- Revenue trend analysis using advanced SQL
+- Revenue trend analysis
 - Built using PostgreSQL and pgAdmin 4
-- Demonstrates CTEs, Window Functions, Ranking Functions and Advanced Aggregations
+- Demonstrates CTEs, Window Functions, Ranking Functions and Aggregations
 
 ---
 
@@ -78,7 +78,6 @@ advanced window functions and multi-CTE queries in the final section.
 **Database:** Northwind (PostgreSQL-compatible version)
 **Source:** [pthom/northwind_psql](https://github.com/pthom/northwind_psql)
 
-```
 
 ## 🗂️ Database Schema
 
@@ -204,16 +203,16 @@ ORDER BY total_revenue DESC NULLS LAST;
 
 ---📸 Sample Outputs
 
-![Sample Outputs](images/annotation 2026-06-08 123056.png)
+![Sample Outputs](images/annotation-2026-06-08-123056.png)
 
-![Sample Outputs](images/annotation 2026-06-08 123151.png)
+![Sample Outputs](images/annotation-2026-06-08-123151.png)
 
-![Sample Outputs](images/annotation 2026-06-08 123553.png)
+![Sample Outputs](images/annotation-2026-06-08-123553.png)
+
+![Sample Outputs](images/annotation-2026-06-08-123655.png)
 
 
-
-
-## Section Breakdow
+## Section Breakdown
 
 ### Section 1 — Customer Analysis
 **Business Question:** Who are our most valuable customers and where do they come from?
@@ -329,10 +328,11 @@ orders are being fulfilled.
 1. Install PostgreSQL and pgAdmin 4
 2. Download the Northwind PostgreSQL-compatible database from
    [pthom/northwind_psql](https://github.com/pthom/northwind_psql)
-3. Create a new database called `northwind` in pgAdmin
-4. Restore or run the `northwind.sql` file to populate all tables
-5. Open the `.sql` file from this repository in the pgAdmin Query Tool
-6. Run each section independently or run the full file at once
+   or from the northwind_psql_master in the repository
+4. Create a new database called `northwind` in pgAdmin
+5. Restore or run the `northwind.sql` file to populate all tables
+6. Open the `.sql` file from this repository in the pgAdmin Query Tool
+7. Run each section independently or run the full file at once
 
 ---
 
